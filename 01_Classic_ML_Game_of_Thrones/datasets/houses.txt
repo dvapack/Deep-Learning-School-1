@@ -1,0 +1,347 @@
+Night's Watch                              105
+House Frey                                  97
+House Stark                                 72
+House Targaryen                             62
+House Lannister                             49
+House Greyjoy                               41
+House Tyrell                                36
+House Martell                               29
+House Osgrey                                21
+Faith of the Seven                          17
+House Arryn                                 16
+House Hightower                             16
+House Bracken                               14
+House Florent                               13
+House Botley                                13
+House Baratheon                             13
+House Bolton                                13
+Brave Companions                            12
+House Tully                                 12
+House Whent                                 11
+Brotherhood without banners                 11
+House Velaryon                              11
+House Crakehall                             10
+Stone Crows                                  9
+House Redwyne                                9
+House Westerling                             9
+House Baratheon of Dragonstone               9
+House Royce                                  9
+House Clegane                                9
+House Waynwood                               9
+House Seaworth                               9
+House Swyft                                  8
+House Brax                                   8
+House Mormont                                8
+House Wylde                                  8
+House Drumm                                  8
+House Karstark                               8
+House Swann                                  8
+House Paege                                  7
+House Baelish                                7
+House Royce of the Gates of the Moon         7
+House of Loraq                               7
+House Manderly                               7
+House Plumm                                  7
+Alchemists' Guild                            7
+House Goodbrother                            6
+House Umber                                  6
+House Stokeworth                             6
+House Darry                                  6
+Brotherhood Without Banners                  6
+House Beesbury                               6
+House Webber                                 6
+House Dayne                                  6
+House Estermont                              6
+House Mallister                              6
+House Redfort                                6
+House Tallhart                               6
+House Haigh                                  6
+House Ryswell                                6
+House Harlaw                                 6
+Chataya's brothel                            5
+House Caron                                  5
+House Glover                                 5
+House Oakheart                               5
+House Vance of Atranta                       5
+House Norcross                               5
+Second Sons                                  5
+House Crane                                  5
+House Caswell                                5
+Kingsguard                                   5
+House Crabb                                  5
+House Blackwood                              5
+House Blackfyre                              5
+House Connington                             5
+House Hollard                                5
+Drowned men                                  5
+House Ashford                                5
+House Hornwood                               4
+Blacks                                       4
+House Darklyn                                4
+House Manwoody                               4
+House Tarth                                  4
+House Hunter                                 4
+House Corbray                                4
+House Ironmaker                              4
+House Vance                                  4
+House Vance of Wayfarer's Rest               4
+House Cassel                                 4
+House Farring                                4
+Happy Port                                   4
+House Lefford                                4
+House Strong                                 4
+Kingswood Brotherhood                        4
+House Lothston                               4
+House Farwynd of the Lonely Light            4
+House Goodbrook                              4
+House Baratheon of King's Landing            4
+House Fossoway of Cider Hall                 4
+House Ambrose                                4
+House Reed                                   4
+House Yronwood                               4
+House Qorgyle                                4
+House Kettleblack                            4
+House Piper                                  3
+Moon Brothers                                3
+House Sharp                                  3
+House of Galare                              3
+R'hllor                                      3
+House Morrigen                               3
+House Mooton                                 3
+House Blackmont                              3
+House Locke                                  3
+House Penrose                                3
+House Grafton                                3
+House Allyrion                               3
+House Hardyng                                3
+House Marbrand                               3
+House Vypren                                 3
+House Frey of Riverrun                       3
+House Fossoway of New Barrel                 3
+House Tarly                                  3
+House Santagar                               3
+House Stackspear                             3
+House Hewett                                 3
+House Costayne                               3
+Stormcrows                                   3
+House Bulwer                                 3
+House Smallwood                              3
+House Payne                                  3
+House Staunton                               3
+House Uller                                  3
+House Butterwell                             3
+House Stout                                  3
+House Slynt                                  3
+House Spicer                                 3
+Burned Men                                   2
+House Shepherd                               2
+House Poole                                  2
+House Wynch                                  2
+House Jordayne                               2
+House Tollett                                2
+House Belmore                                2
+House Brune of Brownhollow                   2
+House Wythers                                2
+Golden Company                               2
+House Kenning of Harlaw                      2
+House Lydden                                 2
+House Rosby                                  2
+House Inchfield                              2
+House Wull                                   2
+House Flint                                  2
+House Sunglass                               2
+Good Masters                                 2
+House Peake                                  2
+House Wells                                  2
+House Humble                                 2
+House Toyne                                  2
+House Greenfield                             2
+House Kenning of Kayce                       2
+House Cuy                                    2
+House Prester                                2
+House Fell                                   2
+House of Pahl                                2
+House Flint of Widow's Watch                 2
+House Thorne                                 2
+House Hetherspoon                            2
+House Selmy                                  2
+House Vaith                                  2
+House Cerwyn                                 2
+House Norrey                                 2
+House Mullendore                             2
+Iron Bank of Braavos                         2
+House Dalt                                   2
+House Penny                                  2
+House Rowan                                  2
+House Lonmouth                               2
+House Hunt                                   2
+House Blackberry                             2
+House Clifton                                2
+House Uffering                               2
+Kingdom of the Three Daughters               2
+House Charlton                               2
+House Willum                                 2
+House Codd                                   2
+House Blacktyde                              2
+House Merryweather                           2
+Unsullied                                    2
+House Nayland                                2
+Black Ears                                   2
+House Lorch                                  2
+House Meadows                                2
+House Heddle                                 2
+House Lynderly                               2
+House Serry                                  2
+House Ryger                                  2
+Faceless Men                                 2
+House Massey                                 1
+House Moreland                               1
+House Horpe                                  1
+House Toland                                 1
+House Banefort                               1
+House Hogg                                   1
+brotherhood without banners                  1
+House Longthorpe                             1
+House Coldwater                              1
+House Leek                                   1
+House Farman                                 1
+House Bywater                                1
+Brotherhood without Banners                  1
+House Longwaters                             1
+Mance Rayder                                 1
+House Ball                                   1
+House Rykker                                 1
+House Potter                                 1
+House of Kandaq                              1
+House of Reznak                              1
+House Peckledon                              1
+House Harlaw of Harlaw Hall                  1
+House Foote                                  1
+House Estren                                 1
+House Rhysling                               1
+House Chelsted                               1
+House Ruttiger                               1
+House Cox                                    1
+House Dustin                                 1
+House Nymeros Martell                        1
+House Templeton                              1
+House Stonehouse                             1
+House Grell                                  1
+Undying Ones                                 1
+House Yarwyck                                1
+Maesters                                     1
+House Blanetree                              1
+House Blount                                 1
+House Trant                                  1
+House Moore                                  1
+Company of the Cat                           1
+House Suggs                                  1
+House Lannister of Casterly Rock             1
+Khal                                         1
+House Condon                                 1
+Summer Islands                               1
+House Harlaw of Grey Garden                  1
+House Wayn                                   1
+House Erenford                               1
+House Egen                                   1
+Thirteen                                     1
+House Strickland                             1
+House Dayne of High Hermitage                1
+House Errol                                  1
+House Drinkwater                             1
+House Liddle                                 1
+Graces                                       1
+House Gargalen                               1
+House Mudd                                   1
+House Farwynd                                1
+House Cole                                   1
+House Sunderland                             1
+House Goodbrother of Shatterstone            1
+House Hasty                                  1
+Thenn                                        1
+House Bolton of the Dreadfort                1
+House Tyrell of Brightwater Keep             1
+House Pemford                                1
+House Chester                                1
+House Greenhill                              1
+House Risley                                 1
+Pureborn                                     1
+House Gaunt                                  1
+House Grandison                              1
+House Sawyer                                 1
+House Bolling                                1
+House Cupps                                  1
+House Tawney                                 1
+Windblown                                    1
+House Roote                                  1
+House Hardy                                  1
+Queensguard                                  1
+House Dondarrion                             1
+House Yew                                    1
+House Mertyns                                1
+House Boggs                                  1
+House Woods                                  1
+House Deddings                               1
+House Conklyn                                1
+City Watch of King's Landing                 1
+House Buckler                                1
+House Wode                                   1
+wildling                                     1
+House Farrow                                 1
+House Reyne                                  1
+House Weaver                                 1
+House Harclay                                1
+House Lannister of Lannisport                1
+Antler Men                                   1
+House Stonetree                              1
+House Leygood                                1
+House Sparr                                  1
+House Varner                                 1
+Peach                                        1
+Sea watch                                    1
+Band of Nine                                 1
+House Bushy                                  1
+House Cafferen                               1
+House Staedmon                               1
+House Cockshaw                               1
+House of Merreq                              1
+House Mollen                                 1
+House Rambton                                1
+House Harlaw of the Tower of Glimmering      1
+House Wagstaff                               1
+House Vyrwel                                 1
+House Bettley                                1
+House Myre                                   1
+House Turnberry                              1
+House Blackbar                               1
+House Woolfield                              1
+House Fossoway                               1
+House Mallery                                1
+House Chyttering                             1
+House Lychester                              1
+House Vikary                                 1
+House Volmark                                1
+House Merlyn                                 1
+House Sarsfield                              1
+House Hoare                                  1
+The Citadel                                  1
+House Graceford                              1
+House Grimm                                  1
+House Jast                                   1
+House Celtigar                               1
+House of Ghazeen                             1
+House Byrch                                  1
+House Hawick                                 1
+House Broom                                  1
+House Harlaw of Harridan Hill                1
+House Shett of Gull Tower                    1
+House Bar Emmon                              1
+House Norridge                               1
+House Hayford                                1
+House Brune of the Dyre Den                  1
+House Fowler                                 1
+House Gower                                  1
+House Borrell                                1
+Citadel                                      1
+Wise Masters                                 1
+Three-eyed crow                              1
