@@ -1,0 +1,6 @@
+03_Kaggle_competition/catboost_info/catboost_training.json
+03_Kaggle_competition/catboost_info/learn_error.tsv
+03_Kaggle_competition/catboost_info/test_error.tsv
+03_Kaggle_competition/catboost_info/learn/events.out.tfevents
+03_Kaggle_competition/catboost_info/test/events.out.tfevents
+03_Kaggle_competition/catboost_info/time_left.tsv
