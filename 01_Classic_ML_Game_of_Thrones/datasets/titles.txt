@@ -1,0 +1,262 @@
+Ser                                                            384
+Maester                                                         39
+Archmaester                                                     21
+Lord                                                            20
+Septon                                                          18
+Winterfell                                                      17
+Princess                                                        16
+Lady                                                            12
+Septa                                                           10
+Prince                                                           9
+Lord Commander of the Night's Watch                              9
+King in the North                                                9
+Cupbearer                                                        8
+Grand Maester                                                    8
+Khal                                                             7
+Bloodrider                                                       6
+Wisdom                                                           5
+Eyrie                                                            5
+Casterly Rock                                                    5
+King-Beyond-the-Wall                                             5
+Knight                                                           5
+Prince of Dragonstone                                            5
+Harrenhal                                                        4
+Lord of the Tides                                                4
+Hand of the King                                                 4
+Riverrun                                                         3
+Karhold                                                          3
+Bitterbridge                                                     3
+Lord Paramount of the Mander                                     3
+Last Hearth                                                      3
+Highgarden                                                       3
+Coldmoat                                                         3
+Starpike                                                         3
+Duskendale                                                       3
+Lord of Harrenhal                                                3
+Queen                                                            3
+Brother                                                          3
+Castellan                                                        3
+First Ranger                                                     3
+PrincessQueen                                                    3
+Steward                                                          2
+Hightower                                                        2
+Runestone                                                        2
+Andals                                                           2
+Sunspear                                                         2
+Crag                                                             2
+Goldengrove                                                      2
+Cerwyn                                                           2
+Master of Coin                                                   2
+Nightsong                                                        2
+Stonehelm                                                        2
+Lord Reaper of Pyke                                              2
+KhalKo (formerly)                                                2
+Lord of Southshield                                              2
+Acorn Hall                                                       2
+Yronwood                                                         2
+Master of coin                                                   2
+Blackcrown                                                       2
+Golden Tooth                                                     2
+Brightwater                                                      2
+Seagard                                                          2
+Captain of the guard                                             2
+Hornwood                                                         2
+Barrowton                                                        2
+Lordsport                                                        2
+Khalakka                                                         2
+Good Master                                                      2
+Stokeworth                                                       2
+King                                                             2
+Seneschal                                                        2
+Goodwife                                                         2
+Ashford                                                          2
+Prince of Dorne                                                  2
+Storm's End                                                      2
+Lord Paramount of the Trident                                    2
+LadyQueen                                                        2
+Keeper of the Gates of the Moon                                  1
+Arbor                                                            1
+Warlock                                                          1
+First Builder                                                    1
+Red Jester                                                       1
+Rain House                                                       1
+Lord of Oakenshield                                              1
+Sandship                                                         1
+Castellan of Harrenhal                                           1
+Lord of the Crossing                                             1
+Red Flower Vale                                                  1
+Lord of Hellholt                                                 1
+Salt Shore                                                       1
+Sealskin Point                                                   1
+Three Sisters                                                    1
+Grey Glen                                                        1
+Dragonstone                                                      1
+Lord of Iron Holt                                                1
+Lord of Honeyholt                                                1
+Maidenpool                                                       1
+Protector of the Realm                                           1
+Lady of Darry                                                    1
+master of ships                                                  1
+Commander of the Second Sons                                     1
+Horn Hill                                                        1
+Prince of Winterfell                                             1
+Light of the West                                                1
+King of Astapor                                                  1
+Eastwatch-by-the-Sea                                             1
+Foamdrinker                                                      1
+Lord of Kingsgrave                                               1
+Lord of Starfall                                                 1
+Master of Deepwood Motte                                         1
+Lord of the Hornwood                                             1
+High Septon                                                      1
+Darry                                                            1
+Lady of Bear Island                                              1
+Dreadfort                                                        1
+Lord Paramount of the Stormlands                                 1
+green lands                                                      1
+Harlaw                                                           1
+PrincessQueenDowager Queen                                       1
+Lord of White Harbor                                             1
+Raventree Hall                                                   1
+Lord of Griffin's Roost                                          1
+QueenDowager Queen                                               1
+Lord of the Seven Kingdoms                                       1
+Master of Whisperers                                             1
+Prince of the Narrow Sea                                         1
+Lord Captain of the Iron Fleet                                   1
+Ruddy Hall                                                       1
+SerCastellan of Casterly Rock                                    1
+Longtable                                                        1
+Bear Island                                                      1
+Master of whisperers                                             1
+Prince of WinterfellHeir to Winterfell                           1
+Haystack Hall                                                    1
+Old Wyk                                                          1
+the Crossing                                                     1
+the Dreadfort                                                    1
+Godswife                                                         1
+Lady of the Vale                                                 1
+Magnar of Thenn                                                  1
+Twins                                                            1
+Golden Storm                                                     1
+Iron Islands                                                     1
+Old Oak                                                          1
+Black Wind                                                       1
+Blacktyde                                                        1
+Lord of Blackhaven                                               1
+The NorreyLord Norrey                                            1
+Lord Steward                                                     1
+King of Winter                                                   1
+Vaith                                                            1
+Commander of the City Watch                                      1
+Green Grace                                                      1
+Lord of Hammerhorn                                               1
+[1]                                                              1
+Lonely Light                                                     1
+LordWisdom                                                       1
+Captain-General                                                  1
+The LiddleLord Liddle                                            1
+Greywater Watch                                                  1
+Oakenshield                                                      1
+Magister                                                         1
+Stone Hedge                                                      1
+Lady of the Leaves                                               1
+Lord of the Tor                                                  1
+Magister of Pentos                                               1
+Three Towers                                                     1
+Redfort                                                          1
+Lord of Sunflower Hall                                           1
+Lord of the Marches                                              1
+Pinkmaiden                                                       1
+Lord of the Red Dunes                                            1
+Godsgrace                                                        1
+Sharp Point                                                      1
+Lady of Torrhen's Square                                         1
+Grassy Vale                                                      1
+Longbow Hall                                                     1
+Hayford                                                          1
+Dyre Den                                                         1
+Sealord                                                          1
+Skyreach                                                         1
+Feastfires                                                       1
+Lord Seneschal                                                   1
+Gulltown                                                         1
+Sweetsister                                                      1
+Sweetport Sound                                                  1
+Lord of Greyshield                                               1
+High Steward of Highgarden                                       1
+Felwood                                                          1
+Harridan Hill                                                    1
+Strongsong                                                       1
+Ironoaks                                                         1
+Lord Steward of the Iron Islands                                 1
+Greenstone                                                       1
+red hand                                                         1
+Seven Kingdoms                                                   1
+Lord of the Iron Islands                                         1
+Lord of Coldmoat                                                 1
+PrincessSepta                                                    1
+LadyQueenDowager Queen                                           1
+Lord of Dragonstone                                              1
+Goodman                                                          1
+Blue Grace                                                       1
+Claw Isle                                                        1
+Red Priest                                                       1
+QueenBlack Bride                                                 1
+Uplands                                                          1
+BrotherProctor                                                   1
+Wind Witch                                                       1
+Broad Arch                                                       1
+Lady Marya                                                       1
+Whitewalls                                                       1
+Hornvale                                                         1
+Goldgrass                                                        1
+Tower of Glimmering                                              1
+Ten Towers                                                       1
+Big BucketThe Wull                                               1
+Sandstone                                                        1
+Serthe Knight of Saltpans                                        1
+CastellanCommander                                               1
+Wyndhall                                                         1
+Chief Undergaoler                                                1
+Lord of Flint's Finger                                           1
+Rills                                                            1
+Longsister                                                       1
+Knight of Griffin's Roost                                        1
+Cobblecat                                                        1
+Coldwater Burn                                                   1
+Undergaoler                                                      1
+Fair Isle                                                        1
+Master of Harlaw Hall                                            1
+Rook's Rest                                                      1
+Crakehall                                                        1
+King of the Iron Islands                                         1
+Deepwood Motte                                                   1
+Captain                                                          1
+Kayce                                                            1
+Lord of the Ten TowersLord Harlaw of HarlawHarlaw of Harlaw      1
+Banefort                                                         1
+First Sword of Braavos                                           1
+Lord of Oldcastle                                                1
+Castle Lychester                                                 1
+King of the Andals                                               1
+Lord of the Snakewood                                            1
+Karl's Hold                                                      1
+Blackmont                                                        1
+Master-at-Arms                                                   1
+Lord of Crows Nest                                               1
+Lord of the Deep Den                                             1
+Widow's Watch                                                    1
+Lord of Darry                                                    1
+Wraith                                                           1
+Ghost Hill                                                       1
+Heart's Home                                                     1
+Oarmaster                                                        1
+Volmark                                                          1
+Lord of Pebbleton                                                1
+Tradesman-Captain                                                1
+Greenshield                                                      1
+Mistress of whisperers                                           1
+Shatterstone                                                     1
+Lord of Atranta                                                  1
+Slave of R'hllor                                                 1
